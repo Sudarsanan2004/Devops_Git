@@ -14,5 +14,5 @@ echo "Disk usage normal : $usage%"
 fi
 
 
-echo "admin message"
+echo "from vikki"
 
