@@ -12,3 +12,7 @@ echo "Disk usage is above $threshold%! , Current : $usage%"
 else
 echo "Disk usage normal : $usage%"
 fi
+
+
+echo "admin message"
+
