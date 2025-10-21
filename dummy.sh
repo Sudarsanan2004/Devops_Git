@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Changes from admin"
+echo "Changes from admin master branch"
