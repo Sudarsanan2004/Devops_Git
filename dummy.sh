@@ -8,4 +8,7 @@ echo "Changes from vikki"
 =======
 echo "logic 1"
 echo "logic 2"
+<<<<<<< HEAD
+>>>>>>> 2eb98b8 (logic 2)
+=======
 >>>>>>> 2eb98b8 (logic 2)
